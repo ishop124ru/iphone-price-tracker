@@ -1,1 +1,1 @@
-worker: python3 iphone_price_tracker.py
+worker: python3 iphone_price_tracker.ru
